@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyam-nayyar" alt="divyam-nayyar" /></a> </p>
 
+Link to my portfolio https://divyamnayyar.netlify.app/
+
 - 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
